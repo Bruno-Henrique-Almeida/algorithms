@@ -1,6 +1,5 @@
-from typing import List
 import logging
-
+from typing import List
 
 logging.basicConfig(level=logging.INFO)
 
